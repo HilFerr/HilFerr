@@ -1,9 +1,6 @@
 # **Hello!**
-![HTML]
-<!----------------------------------------------------------------------------->
-<!--[Link]: # 'Link with example title.'>
-<!---------------------------------[ Buttons ]--------------------------------->
-[Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+![Button Example]
+[Button Example]: HTML
 
 I'm Hilário, an inspiring programmer who's exploring C++.
 I am currently at the beginning of my 2nd year of Highschool, taking a Programming Course, on which I have taken classes of HTML, CSS, JavaScript, C++ and Python.
