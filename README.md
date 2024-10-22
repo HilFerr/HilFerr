@@ -1,5 +1,5 @@
 # **Hello!**
-![Button Example]
+![Button Example][HTML]
 [Button Example]: HTML
 
 I'm Hilário, an inspiring programmer who's exploring C++.
