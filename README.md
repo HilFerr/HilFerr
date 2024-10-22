@@ -7,7 +7,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align = "center">
-  <hr>
   <h1 align="center">HILÁRIO FERREIRA</h1>
   <h3 align="center">Programmer</h3>
 
