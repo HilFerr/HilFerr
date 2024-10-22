@@ -1,9 +1,6 @@
 # **Hello!**
 
-
-<div style="width: 300px; height: 150px; background-color: lightblue; border: 2px solid blue; display: flex; justify-content: center; align-items: center; font-size: 20px; color: darkblue; border-radius: 10px;">
-    HTML
-</div>
+[HTML]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
 
 I'm Hilário, an inspiring programmer who's exploring C++.
 I am currently at the beginning of my 2nd year of Highschool, taking a Programming Course, on which I have taken classes of HTML, CSS, JavaScript, C++ and Python.
