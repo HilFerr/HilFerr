@@ -1,9 +1,9 @@
 # **Hello!**
 
 
-<div style = "width: 300px; height: 150px; background-color: #f16529; border: 2px #e44d26; display: flex; /* Flexbox for centering */ justify-content: center; align-items: center; font-size: 20px; color: darkblue; border-radius: 10px; /* Rounded corners (optional) */">
+<p style = "width: 300px; height: 150px; background-color: #f16529; border: 2px #e44d26; display: flex; /* Flexbox for centering */ justify-content: center; align-items: center; font-size: 20px; color: darkblue; border-radius: 10px; /* Rounded corners (optional) */">
     HTML
-</div>
+</p>
 
 I'm Hilário, an inspiring programmer who's exploring C++.
 I am currently at the beginning of my 2nd year of Highschool, taking a Programming Course, on which I have taken classes of HTML, CSS, JavaScript, C++ and Python.
