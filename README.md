@@ -8,7 +8,7 @@
 <br />
 <div align = "center">
   <hr>
-  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
+  <h1 align="center">HILÁRIO FERREIRA</h1>
   <h3 align="center">Programmer</h3>
 
   <p align="center">
