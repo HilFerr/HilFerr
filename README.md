@@ -65,14 +65,12 @@
 
 <!-- HTML - WEBSITES -->
   <h2 align = "center">
-    WEBSITES BUILT WITH
+    WEBSITES MADE
   </h2>
-
-  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
   <div align = "left">
     <h3>1. CLOTHING SHOP </h3>
+    <p>With the use of</p>
   </div>
 
 <!-- HTML - GAMES -->
