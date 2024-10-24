@@ -64,9 +64,9 @@
 <div align = "center">
 
 <!-- HTML - WEBSITES -->
-  <h2 align = "center">
-    WEBSITES MADE
-  </h2>
+  <h1 align = "center">
+    <p> Projects </p>
+  </h1>
   
   <div align = "left">
     <h3>1. CLOTHING SHOP </h3>
