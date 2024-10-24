@@ -12,21 +12,24 @@
 # 
 <!-- INTRO -->
 <div align = "center">
-  <h1 align = "center">
+  <h1>
     HILÁRIO FERREIRA
   </h1>
-  <h3 align = "center">PROGRAMMER</h3>
+  <h3>PROGRAMMER</h3>
 
-  <p align="center">
-    I'm Hilário, a Portuguese programmer in the making, currently in his 2nd year of high school. <br>
-    During this journey, I've worked with
-  </p>
+  I'm Hilário, a Portuguese programmer in the making, currently in his 2nd year of high school. <br>
+  During this journey, I've worked with
+
   
   ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+  In the future, I want to do /* software */ or web development
+  
 </div>
 
 <!-- TABLE OF CONTENTS -->
