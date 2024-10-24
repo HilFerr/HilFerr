@@ -69,7 +69,7 @@
   </h1>
   
   <div align = "left">
-    <h3>1. CLOTHING SHOP </h3>
+    <h3>1. Valéria Cruz </h3>
     <p>HTML, CSS, NODE.JS, VUE.JS, MONGODB</p>
   </div>
 
