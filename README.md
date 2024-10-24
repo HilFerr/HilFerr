@@ -70,8 +70,7 @@
   
   <div align = "left">
     <h3>1. CLOTHING SHOP </h3>
-    <p>With the use of</p>
-    HTML, CSS, NODE.JS, VUE.JS, MONGODB
+    <p>HTML, CSS, NODE.JS, VUE.JS, MONGODB</p>
   </div>
 
 <!-- HTML - GAMES -->
