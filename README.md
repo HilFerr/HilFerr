@@ -1,14 +1,9 @@
-@font-face {
-  font-family: "Montserrat";
-  src: url("css/fonts/some-font.otf") format("opentype");
-}
+<!-- LANGUAGES -->
 
-h1 {
-  font-family: 'Montserrat', Arial, sans-serif;
-  font-weight:normal;
-  font-style:normal;
-}
 
+<!-- IMAGE -->
+
+<!-- INTRO -->
 <div align = "center">
   <h1 align = "center">HILÁRIO FERREIRA</h1>
   <h3 align = "center">PROGRAMMER</h3>
@@ -23,23 +18,12 @@ h1 {
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  <p>
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
 </div>
 
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details align = "center">
   <summary>Table of Contents</summary>
   <ol>
     <li>
