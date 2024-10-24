@@ -65,7 +65,8 @@
 
 <!-- HTML - WEBSITES -->
   <h1 align = "center">
-    <p> Projects </p>
+    <p> WEB PROJECTS </p>
+    HTML, CSS, NODE.JS, VUE.JS, MONGODB
   </h1>
   
   <div align = "left">
