@@ -1,11 +1,20 @@
 <!-- LANGUAGES -->
-
+<div align = "center">
+  <h2>LANGUAGES</h2>
+  
+  [![EN](https://img.shields.io/badge/EN-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md) 
+  [![PT](https://img.shields.io/badge/PT-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.pt-br.md)
+  [![ES](https://img.shields.io/badge/ES-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.es.md)  
+  <br>
+</div>
 
 <!-- IMAGE -->
-
+# 
 <!-- INTRO -->
 <div align = "center">
-  <h1 align = "center">HILÁRIO FERREIRA</h1>
+  <h1 align = "center">
+    HILÁRIO FERREIRA
+  </h1>
   <h3 align = "center">PROGRAMMER</h3>
 
   <p align="center">
@@ -19,8 +28,6 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details align = "center">
@@ -48,31 +55,38 @@
   </ol>
 </details>
 
+<br>
+
+<!-- HTML -->
+<div align = "center">
+
+<!-- HTML - WEBSITES -->
+  <h2 align = "center">
+    WEBSITES BUILT WITH
+  </h2>
+
+  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+  <div align = "left">
+    <h3>1. CLOTHING SHOP </h3>
+  </div>
+
+<!-- HTML - GAMES -->
+  <h2 align = "center">
+    GAMES BUILT WITH
+  </h2>
+
+  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+  <div align = "left">
+    <h3>1. TIC TAC TOE </h3>
+  </div>
+</div>
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
