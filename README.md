@@ -65,13 +65,13 @@
 
 <!-- HTML - WEBSITES -->
   <h1 align = "center">
-    <p> WEB PROJECTS </p>
-    HTML, CSS, NODE.JS, VUE.JS, MONGODB
+    WEB PROJECTS
   </h1>
   
   <div align = "left">
     <h3>1. CLOTHING SHOP </h3>
     <p>With the use of</p>
+    HTML, CSS, NODE.JS, VUE.JS, MONGODB
   </div>
 
 <!-- HTML - GAMES -->
